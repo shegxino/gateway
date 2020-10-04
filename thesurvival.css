@@ -14,7 +14,7 @@
 *, ::after, ::before {
     box-sizing: content-box !important;
 }
-.flip {background-image:url(file:///C:/Users/adeni/OneDrive/Desktop/s2.jpg);}
+.flip {background-image:url(s2.jpg);}
 .lip {background-color:rgba(0,0,0,0.6);}
 .no-margin {margin: 0;}
 .no-padding {padding: 0;}
@@ -86,7 +86,7 @@ ul.grt-menu li.grt-dropdown.active-dropdown a {
 .bet{border:none; background-color:white; opacity:0.6; padding:15px 32px; text-align:center; text-decoration:none; border-radius:20px; width:700px; margin:10px;}
 .bit{border:none; background-color:white; opacity:0.6; padding:15px 32px; text-align:center; text-decoration:none; border-radius:20px; width:700px; height:200px; margin:10px;}
 .set{color:#2a3b8e;}
-.pit{background-image:url(file:///C:/Users/adeni/OneDrive/Desktop/book.jpeg);}
+.pit{background-image:url(book.jpeg);}
 .pot{background-color:rgba(0,0,0,0.3);}
 .put{background-color:#2a3b8e; border:solid 4px; color:white; padding:15px 32px; text-align:center; text-decoration:none; border-radius:12px; width:100px; margin:20px;}
 .dec{transition-timing-function: ease-in-out 0.7s;color:#2a3b8e;}
